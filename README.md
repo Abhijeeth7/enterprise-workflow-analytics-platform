@@ -1,18 +1,6 @@
-# enterprise-workflow-analytics-platform
+This project represents an internal enterprise workflow and analytics platform that helps operations and IT teams manage requests, automate repetitive workflows, validate data pipelines, and monitor business KPIs from a single interface. The platform integrates workflow systems, ETL pipelines, and analytics dashboards to improve operational visibility, reduce manual effort, and support data-driven decision-making.
 
-One-paragraph product description
-The name of our product that we are going build is Anatomatical(tentative). We provide automation solutions that includes ETL service, Analytical services, Deployment services, Machine learing solutions, and most importantly Visualization solutions. We as an organization are having atmost capability of providing end-to-end automation solutions for an enterprise.
+MVP features:
 
-Target users
-Enterprises
-Customer-service companies
-Businesses with Reporting needs
-
-High-level features (bullet points)
-Automation
-Visualization
-Machine learning
-Cloud Deployment
-Project/Product development/management workflow solutions
-
-Copyright @ 
+ETL automation
+Dashboards
